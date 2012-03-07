@@ -25,7 +25,7 @@ my %WriteMakefileArgs = (
     'Any::Template::ProcessDir' => '0.04',
     'Mason' => '2.10'
   },
-  'VERSION' => '0.01',
+  'VERSION' => '0.02',
   'test' => {
     'TESTS' => 't/*.t'
   }

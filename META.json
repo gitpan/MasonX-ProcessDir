@@ -4,7 +4,7 @@
       "Jonathan Swartz <swartz@pobox.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.200008, CPAN::Meta::Converter version 2.102400",
+   "generated_by" : "Dist::Zilla version 4.200008, CPAN::Meta::Converter version 2.113640",
    "license" : [
       "perl_5"
    ],
@@ -43,6 +43,6 @@
          "web" : "https://github.com/jonswar/perl-masonx-processdir"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
 

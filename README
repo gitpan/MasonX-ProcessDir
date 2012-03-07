@@ -2,7 +2,7 @@ NAME
     MasonX::ProcessDir - Process a directory of Mason 2 templates
 
 VERSION
-    version 0.01
+    version 0.02
 
 SYNOPSIS
         use MasonX::ProcessDir;
